@@ -10,7 +10,8 @@ ArchEase is a web app revolutionizing construction planning. ArchEase provides a
 
 [Demo][demo]
 
-[![Arch-Ease][preview_image]][demo]
+![image](https://github.com/Arch-Ease/web/assets/72194471/2c1491b0-3e3a-493f-bed4-2f542b46800e)
+
 
 ## Usage
 
@@ -78,12 +79,11 @@ ReactDOM.render(
 
 ## Authors
 
-- [chrvadala](https://github.com/chrvadala)
-- [danilosalvati](https://github.com/danilosalvati)
-- [enricomarino](https://github.com/enricomarino)
-- [federicospini](https://github.com/federicospini)
-- [alessiocarrafa](https://github.com/alessiocarrafa)
-- [stefanoperrone](https://github.com/stefanoperrone)
+- [Mudit Sharma](https://github.com/chrvadala)
+- [Vedansh Nigam](https://github.com/vednig)
+- [Saurav Sudhakar](https://github.com/GeekNinja24)
+- [Mehak Chabra](https://github.com/mehakchabra)
+- [Aditya](https://github.com/alessiocarrafa)
 
 Developed @ [CVDLAB][cvdlab]
 
