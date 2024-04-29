@@ -85,7 +85,7 @@ ReactDOM.render(
 - [Mehak Chabra](https://github.com/mehakchabra)
 - [Abhishek]()
 
-Developed @ [VIT Bhopal][cvdlab]
+Developed @ VIT Bhopal
 
 ## Contributing
 
@@ -101,6 +101,4 @@ MIT
 [js]: https://img.shields.io/badge/javascript-ES6-fbde34.svg
 [react_version]: https://img.shields.io/badge/react%20version-16.0.0%20or%20later-61dafb.svg
 [preview_image]: https://raw.githubusercontent.com/cvdlab/Arch-Ease/master/preview.png
-[demo]: https://cvdlab.github.io/Arch-Ease
-[cvdlab]: http://cvdlab.org/
 "# web" 
