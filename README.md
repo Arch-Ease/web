@@ -83,21 +83,13 @@ ReactDOM.render(
 - [Vedansh Nigam](https://github.com/vednig)
 - [Saurav Sudhakar](https://github.com/GeekNinja24)
 - [Mehak Chabra](https://github.com/mehakchabra)
-- [Aditya](https://github.com/alessiocarrafa)
+- [Abhishek]()
 
-Developed @ [CVDLAB][cvdlab]
+Developed @ [VIT Bhopal][cvdlab]
 
 ## Contributing
 
 Your contributions (issues and pull request) are very appreciated!
-
-## Contributors
-
- - [JikkuJose](https://github.com/JikkuJose)
- - [Yeri-Kim](https://github.com/Yeri-Kim)
- - [lucacastoro](https://github.com/lucacastoro)
- - [cbosse-skwirrel](https://github.com/cbosse-skwirrel)
- - [JaccoGoris](https://github.com/JaccoGoris)
 
 ## License
 
