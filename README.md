@@ -1,5 +1,5 @@
 # Arch-Ease
-
+ArchEase is a web app revolutionizing construction planning. ArchEase provides affordable and accessible architectural design tools, empowering individuals to create safe, efficient building plans without relying on costly architects.
 *Arch-Ease* is a [React][react] component which can be used to draw model buildings. Drag & drop from a catalog of customizable and ready-to-use objects, you can start from 2D wireframes and land on 3D models. As a developer you can provide your users with new objects by adding them to the catalog.
 
 [![npm][npm_label]][npm_link]
